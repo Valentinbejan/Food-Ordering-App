@@ -1,0 +1,1 @@
+Acest proiect constă în dezvoltarea unei aplicații mobile pentru gestionarea produselor și comenzilor, cu funcționalități pentru utilizatori și administratori, folosind React Native, Expo și Supabase pentru baza de date și autentificare.
